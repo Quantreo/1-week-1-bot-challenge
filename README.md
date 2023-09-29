@@ -1,1 +1,0 @@
-# 1-week-1-bot-challenge
