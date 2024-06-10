@@ -276,3 +276,7 @@ def future_DC_market_regime(df, threshold):
     
     return df_copy
 
+def future_returns(df,N):
+    df_copy = df.copy()
+    df_copy["log_close"] = np.log(df_copy["close"])
+    df_copy["fut_ret"] = (df_copy["log_close"].shift(-N) - df_copy["log_close"]) / df_copy["log_close"]
