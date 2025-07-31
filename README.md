@@ -24,5 +24,8 @@ pip install -r "6. CODES/requirements.txt"
 jupyter lab
 # → open any notebook inside 6. CODES/ and follow along
 
+```
+
+
 ---
-🚀 Whether you're coding your first models or scaling a live strategy, ML4Trading gives you the tools, templates, and theory to build robust and intelligent trading systems.
+🚀 Whether you're coding your first models or scaling a live strategy, [ML4Trading](https://www.quantreo.com/ml4trading-course/) gives you the tools, templates, and theory to build robust and intelligent trading systems.
